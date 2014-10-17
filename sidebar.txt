@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dee:home|Door43 (dee)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dee|d43-dee repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dee/archive/master.zip|d43-dee.zip]]
+
+**Recent Changes**
+{{changes>ns = dee}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dee|Ethnologue data]]
+
